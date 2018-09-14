@@ -1,0 +1,9 @@
+
+
+Second project display the picture with your input
+
+compile as your wish:
+
+g++ $(pkg-config --cflags --libs opencv) -std=c++11  main.cpp -o displayVideo
+
+Usage: ./displayVideo <FILENAME>
