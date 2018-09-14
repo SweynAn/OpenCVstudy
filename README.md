@@ -12,6 +12,10 @@ List of projects:
 project1: read the input of a picture and display it
 project2: read the input of a video stream and display it
 
-============     
+============
+
+Compile method
+
+g++ $(pkg-config --cflags --libs opencv) -std=c++11  main.cpp -o displayVideo
 
 
