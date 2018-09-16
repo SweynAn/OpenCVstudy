@@ -10,7 +10,10 @@ https://medium.com/@jaskaranvirdi/setting-up-opencv-and-c-development-environmen
 List of projects:
 
 project1: read the input of a picture and display it
+
 project2: read the input of a video stream and display it
+
+project3: Read in camera input and output to the screen
 
 ============
 
